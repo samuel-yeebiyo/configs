@@ -1,4 +1,4 @@
-# configs
+# config files
 These are my dotfiles for
 1. BSPWM
 2. Polybar
