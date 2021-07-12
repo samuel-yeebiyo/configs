@@ -1,6 +1,1 @@
-# config files
-These are my dotfiles for
-1. BSPWM
-2. Polybar
-3. SXHKD
-4. Terminator
+My config files for BSPWM (window manager), Polybar(status bar), SXHKD(X hotkey daemon), Terminator(terminal emulator)
